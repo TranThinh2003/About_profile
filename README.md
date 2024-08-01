@@ -20,8 +20,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,cpp,mysql,firebase,flask,pytorch,tensorflow" /><br>
-    <img src="https://skillicons.dev/icons?i=opencv,sklearn,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=python,cpp,mysql,firebase,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,vscode" /><br>
     
 </div>
 
