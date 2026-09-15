@@ -40,5 +40,5 @@
 ---
 
 <p align="center">
-  💡 <i>"Code the Future. Teach the Machines. Build the Intelligence."</i> 💡
+  💡 <i>"There is no prize to perfection, only an end to pursuit."</i> 💡
 </p>
